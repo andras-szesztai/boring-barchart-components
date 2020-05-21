@@ -1,0 +1,22 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "dc5eff75-acc9-4873-a1e8-83d95baa39c7"
+	},
+	"author": "Andras Szesztai",
+	"dependencies": {
+		"@framer/framer.default": "^1.71.0",
+		"@types/lodash": "^4.14.152",
+		"@types/styled-components": "^5.1.0",
+		"lodash": "^4.17.15",
+		"styled-components": "^5.1.0"
+	}
+}
