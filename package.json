@@ -16,7 +16,7 @@
 		"@framer/framer.default": "^1.71.0",
 		"@types/lodash": "^4.14.152",
 		"@types/styled-components": "^5.1.0",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.21",
 		"styled-components": "^5.1.0"
 	}
 }
